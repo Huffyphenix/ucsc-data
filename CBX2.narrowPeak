@@ -1,3 +1,4 @@
+track type=narrowPeak name="CBX2 narrowPeak"
 chr1	1035901	1036030	result_peak_1	33	.	2.96605	3.33133	0.47974	54
 chr1	1116331	1116478	result_peak_2	57	.	4.44908	5.73276	1.28870	62
 chr1	1132375	1132487	result_peak_3	33	.	2.96605	3.33133	0.47974	97
